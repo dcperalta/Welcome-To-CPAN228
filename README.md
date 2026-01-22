@@ -20,7 +20,42 @@ By the end of Lab 0, you'll have:
 **Difficulty:** Beginner (first time? follow step-by-step!)
 
 ---
+## 🚀 Getting Started
 
+### Step 0: Accept Your Assignment
+
+For each lab, you'll receive an assignment link. Click on this link to:
+- Create your own repository for the lab
+- Automatically set up your workspace with the starter code
+
+### Step 1: Clone Your Repository
+
+Once your repository is created, clone it to your local machine:
+
+```bash
+git clone https://github.com/YOUR-USERNAME/welcome-cpan252-lab0.git
+cd welcome-cpan252-lab0
+```
+
+Replace `YOUR-USERNAME` with your GitHub username. Use the Copy under Code button for simplicity 
+
+### Step 2: Complete the Lab
+
+Work on the lab assignment in your local repository.
+
+### Step 3: Push Your Work to GitHub
+
+Once you're done, commit and push your changes:
+
+```bash
+git add .
+git commit -m "Complete lab assignment"
+git push
+```
+
+Your submission will be automatically tested and graded through our automated test cases.
+
+---
 ## 📋 Lab 0 Overview
 
 Lab 0 has **2 parts**:
