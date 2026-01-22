@@ -42,14 +42,10 @@ Edit the student roster table and add your information:
 1. Add your name in the same format as the first entry (Last Name, First Name)
 2. Fill in your Student ID
 3. Add your GitHub username (your @handle, e.g., @username)
-4. Add your Humber email (format: firstname.lastname@student.humber.ca)
+4. Add your Humber email (format: firstname.lastname@student.humber.ca or n01233456789@humber.ca)
 5. Mark Lab 0 as complete with ✅
 6. Add your Group Name (or leave blank if not assigned yet)
-
-**Example:**
-```
-| 1 | Aamir, Zainab B. | 123456789 | @zaainab-git | zainab.aamir@student.humber.ca | ✅ Complete | [GroupName] |
-```
+7. If you don't have a group yet go on github to join one
 
 ### Step 4: Commit Your Changes
 
@@ -59,11 +55,8 @@ Once you've updated your row in the table, commit your changes:
 # Stage your changes
 git add .
 
-# Or stage only specific files
-git add README.md
-
 # Commit with a clear message
-git commit -m "Add Zainab Aamir to Lab 0 roster"
+git commit -m "lab 0 completed"
 ```
 
 ### Step 5: Push Your Branch to GitHub
@@ -74,8 +67,8 @@ Push your branch to the remote repository:
 # Push your branch
 git push origin firstname-lastname
 
-# Example:
-# git push origin zainab-aamir
+# Example pushing to your branch:
+# git push origin firstname-lastname
 ```
 
 ### Step 6: Create a Pull Request
@@ -91,7 +84,7 @@ Go to the GitHub repository in your browser and create a pull request:
 
 Alternatively, GitHub will often show a prompt after you push—just click "Create Pull Request" there.
 
-### Step 7: Wait for Approval and Merge
+### Step 7: Wait for Approval and Submit the link to Blackboard for marks
 
 Once your PR is created, submit the **PR link/number** on Blackboard. Your instructor will review and merge it.
 
@@ -108,44 +101,6 @@ After the PR is merged, you're officially done with Lab 0! ✅
 - **Branch name** should use your full name (e.g., firstname-lastname)
 - **Keep main branch clean**—always do your work on your personal branch
 
----
-
-## Common Git Commands Reference
-
-```bash
-# Check your current branch
-git branch
-
-# See the status of your changes
-git status
-
-# View your commits
-git log --oneline
-
-# Switch between branches
-git checkout main
-git checkout firstname-lastname
-
-# Pull latest changes from main (if needed)
-git pull origin main
-
-# Undo the last commit (before pushing)
-git reset --soft HEAD~1
-
-# View differences before committing
-git diff
-```
-
----
-
-## Need Help?
-
-If you encounter issues:
-
-1. **Check your branch**: `git branch` — make sure you're on your personal branch, not main
-2. **Check for conflicts**: If you see merge conflicts, contact your instructor
-3. **Verify your changes**: `git status` before committing
-4. **Check the PR**: Make sure your PR is pointing to main as the base branch
 
 ---
 
