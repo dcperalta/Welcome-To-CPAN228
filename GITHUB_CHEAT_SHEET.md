@@ -1,4 +1,4 @@
-# 🚀 Springbrook Web Dev: The Assignment Workflow
+# 🚀 Springbrook Web Dev: Assignments Workflow
 
 Follow these steps every time you start a new assignment to ensure your code is organized and you are following professional industry standards.
 
@@ -25,7 +25,7 @@ git pull origin main
 Create a "sandbox" to work on your assignment without affecting the main project.
 
 ### 1. Create your Assignment Branch
-Replace `name` with the specific assignment (e.g., `assignment-01`).
+Replace `#-name` ___ `#` Assignment number and `name` with your name (e.g., `assignment-01-chris`).
 
 ```bash
 git checkout -b assignment-name
@@ -69,3 +69,4 @@ git push origin assignment-name
 - Click the green "Compare & pull request" button that appears at the top.
 - Add a title and a brief description of what you completed.
 - Click "Create pull request."
+- One of your team member will have to review your PR in order to merge it to main
