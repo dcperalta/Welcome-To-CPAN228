@@ -3,7 +3,7 @@
 Welcome! Add your name and section here when you complete Lab 0.
 
 ## Instructions
-1. Find your name in the list below (or add it if not there)
+1. Add your name in the same format as line the first entry
 2. Mark that you've completed Lab 0 with ✅
 3. Add your GitHub username
 4. Create a PR with these changes
