@@ -1,6 +1,6 @@
 # Welcome to CPAN-228 🎓
 ## Web Application Development for CPAN Diploma
-### Lab 0: GitHub Fundamentals + Spring Dependency Injection
+### Lab 0: GitHub Fundamentals
 
 ---
 
@@ -12,55 +12,16 @@ Welcome! This is your **Lab 0 starter repository** for CPAN-228. Here you'll lea
 - Spring Boot fundamentals (Dependency Injection, IoC Container)
 
 By the end of Lab 0, you'll have:
-- ✅ Created your first GitHub pull request
-- ✅ Built a Spring application demonstrating DI
-- ✅ Understood the Spring Container
+- ✅ Created your first GitHub pull request for the class
 
-**Time Estimate:** 2-3 hours  
+**Time Estimate:** 15 min
 **Difficulty:** Beginner (first time? follow step-by-step!)
 
----
-## 🚀 Getting Started
-
-### Step 0: Accept Your Assignment
-
-For each lab, you'll receive an assignment link. Click on this link to:
-- Create your own repository for the lab
-- Automatically set up your workspace with the starter code
-
-### Step 1: Clone Your Repository
-
-Once your repository is created, clone it to your local machine:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/welcome-cpan252-lab0.git
-cd welcome-cpan252-lab0
-```
-
-Replace `YOUR-USERNAME` with your GitHub username. Use the Copy under Code button for simplicity 
-
-### Step 2: Complete the Lab
-
-Work on the lab assignment in your local repository.
-
-### Step 3: Push Your Work to GitHub
-
-Once you're done, commit and push your changes:
-
-```bash
-git add .
-git commit -m "Complete lab assignment"
-git push
-```
-
-Your submission will be automatically tested and graded through our automated test cases.
 
 ---
 ## 📋 Lab 0 Overview
 
-Lab 0 has **2 parts**:
-
-### Part 1: GitHub Setup & First Pull Request (30 minutes)
+### GitHub Setup & First Pull Request 
 Learn the GitHub workflow:
 1. Clone this repository
 2. Create a feature branch
@@ -69,35 +30,6 @@ Learn the GitHub workflow:
 5. Have it reviewed and merged
 
 **Why?** You'll submit ALL labs via GitHub. This is practice!
-
-### Part 2: Spring Dependency Injection Exercise (2 hours)
-Build a Task Validation System:
-1. Create domain models (User, Task)
-2. Implement services with Spring annotations
-3. Use Dependency Injection (@Autowired)
-4. Run the application and see DI in action
-
-**Why?** DI is the foundation of Spring. Everything else builds on this!
-
----
-
-## ✅ Quick Checklist
-
-Before you start, make sure you have:
-
-- [ ] Git installed (`git --version`)
-- [ ] Java 11+ installed (`java -version`)
-- [ ] Maven installed (`mvn --version`)
-- [ ] IDE installed (IntelliJ IDEA recommended, or VS Code with Java extensions)
-- [ ] GitHub account created
-- [ ] GitHub desktop (optional but helpful for beginners)
-
----
-
-
-### Step 4: Create Second Pull Request
-
-When Part 2 is complete, create a second PR with your code.
 
 ---
 
