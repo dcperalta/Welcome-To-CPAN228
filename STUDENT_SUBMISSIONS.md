@@ -108,6 +108,9 @@ After the PR is merged, you're officially done with Lab 0! ✅
 
 ## Student Roster
 
+### If you joined/registered later your name is probably at the bottom.
+#### if you don't see your name add your line at the bottom
+
 | # | Name | Student ID | GitHub Username | Humber Email | Lab 0 Complete | Group Name |
 |---|---|---|---|---|---|---|
 | 0 | Christin, Mugisha | [N0123456789] | @Mugisha5 | N0123456789 | [ 🔥 ] Complete | Semicolon |
@@ -181,3 +184,9 @@ After the PR is merged, you're officially done with Lab 0! ✅
 | 68 | Tsegay, Abel | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 69 | Ustaoglu, Neslihan | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
 | 70 | Wang, Xia | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 71 | Abdullahi, Harith | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 72 | Attia, Alaa | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 73 | Gurung, Bimal | [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+| 74 | Soor, Sahib S.| [Student ID] | @github-username | [Humber Email] | [ ] Not Started | [GroupName] |
+
+
